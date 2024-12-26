@@ -109,9 +109,7 @@ video:hover{
     justify-content: flex-start;
     margin-left: 30px;
     gap: 160px;
-
 }
-
 #saibaba{
     height: 540px;
     width: 400px;
@@ -453,6 +451,7 @@ textarea{
     position: relative;
     bottom: 25px;
 }
+
 
 /* Mobile Phones */
 @media (min-width:320px) and (max-width:768px){
