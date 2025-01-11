@@ -1,4 +1,7 @@
 /* Kailash Solanki */
+body{
+    background-image: url(background.avif);
+}
 
 #title{
     height: 50px;
